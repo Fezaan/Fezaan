@@ -1,18 +1,25 @@
 ### Hi there 👋
 
-### Fezaan here ,aka StuckCoder
+### Fezaan here - aka [StuckCoder]
 
-<!--
-**Fezaan/Fezaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Student, Programmer and Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on <em>Travel Log WebApp</em>.
+- 🌱 I’m currently learning React and other backend technologies.
+- 💬 Ask me about anything you need from me.
+- 📫 Portfolio : [website]
+- ⚡ Fun fact: I like to play <i>Badminton</i>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+---
+
+### My Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Definitions -->
+
+[website]: https://my-site-eight-jade.vercel.app/
+[LinkedIn]: https://linkedin.com/in/fezaan-hussain10504
+[GitHub]: https://github.com/Fezaan
