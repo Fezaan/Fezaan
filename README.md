@@ -1,14 +1,15 @@
-### Hi there 👋
+## Hello 👋
 
-### Fezaan here - aka [StuckCoder]
+## Fezaan here - aka [StuckCoder]
 
-## I am a Student, Programmer and Developer
+### I am a Student, Programmer and Developer
 
 - 🔭 I’m currently working on <em>Travel Log WebApp</em>.
 - 🌱 I’m currently learning React and other backend technologies.
 - 💬 Ask me about anything you need from me.
 - 📫 Portfolio : [website]
 - ⚡ Fun fact: I like to play <i>Badminton</i>.
+- 🧑‍🎓 Student at Vellore Institute of Technology, Bhopal
 
 ### Connect with me
 
@@ -39,7 +40,7 @@
 
 ### Wakatime Card
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fezaan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StuckCoder&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Definitions -->
 
