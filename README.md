@@ -16,7 +16,7 @@
 
 ### My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -34,6 +34,12 @@
 ### My top programming languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Wakatime Card
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fezaan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Definitions -->
 
