@@ -16,9 +16,10 @@
 
 ### My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 ### My pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezaan&repo=Blog-Site&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +27,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezaan&repo=Secrets&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezaan&repo=CodingWithCPP&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezaan&repo=Todo-list&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezaan&repo=Dictionary-App)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezaan&repo=Dictionary-App&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### My top programming languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Definitions -->
 
