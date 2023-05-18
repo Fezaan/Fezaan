@@ -42,6 +42,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut&exclude_repo=Diactionary-App,Joke-Generator,Tinals)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### Languages and technologies I like to use:
 
 [<img align="center" alt="htmllogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px" height="100px" />]
 [<img align="center" alt="csslogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px" float="left" />]
