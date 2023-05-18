@@ -40,7 +40,7 @@
 
 ### My top programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut&exclude_repo=Diactionary-App,Joke-Generator,Tinals)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img align="center" alt="htmllogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px" height="100px" />]
