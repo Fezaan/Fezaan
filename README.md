@@ -46,6 +46,11 @@
 [<img align="center" alt="htmllogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px" height="100px" />]
 [<img align="center" alt="csslogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px" float="left" />]
 [<img align="center" alt="jslogo" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="100px" height="100px" />]
+[<img align="center" alt="cpplogo" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="100px" height="100px" />]
+[<img align="center" alt="javalogo" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" width="100px" height="100px" />]
+[<img align="center" alt="bootstraplogo" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="100px" height="100px" />]
+[<img align="center" alt="mongodblogo" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="100px" height="100px" />]
+[<img align="center" alt="nodelogo" src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" width="100px" height="100px" />]
 
 
 <!-- ---
