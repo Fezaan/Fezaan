@@ -13,7 +13,6 @@
 
 ### Connect with me
 
----
 [<img align="left" alt="Github.png" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" />][Github]
 [<img align="left" alt="Github.png" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="Github.png" src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" />][LinkedIn]
