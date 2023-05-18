@@ -42,7 +42,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align="center" alt="htmllogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px" height="100px" />]
+<img align="center" alt="htmllogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px" height="100px" />
+<img align="center" alt="htmllogo" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px" />
+<img align="center" alt="htmllogo" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="100px" height="100px" />
 
 <!-- ---
 
