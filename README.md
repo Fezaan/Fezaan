@@ -64,6 +64,6 @@
 
 <!-- Definitions -->
 
-[website]: https://my-site-eight-jade.vercel.app/
+[website]: https://fezaanzone.vercel.app/
 [LinkedIn]: https://linkedin.com/in/fezaan-hussain10504
 [GitHub]: https://github.com/Fezaan
