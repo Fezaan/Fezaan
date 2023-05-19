@@ -23,7 +23,7 @@
 
 ### My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fezaan&theme=onedark&show_icons=true)](https://github.com/Fezaan)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### My top programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut&exclude_repo=Diactionary-App,Joke-Generator,Tinals)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fezaan&theme=onedark&layout=donut&exclude_repo=Diactionary-App,Joke-Generator,Tinals)](https://github.com/Fezaan)
 
 ---
 
